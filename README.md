@@ -23,3 +23,7 @@
 - Deep Learning Adaptive Computation and Machine Learning Series BY Ian Goodfellow :
   - [Link Resource](https://github.com/HFTrader/DeepLearningBook) or [N/A?](https://github.com/ec2ainun/PDF/blob/master/deep-learning-adaptive-computation-and-machine-learning-series%20BY%20Ian%20Goodfellow.pdf)
 
+## Stargazers over time
+
+[![Stargazers over time](https://starcharts.herokuapp.com/ec2ainun/books-ML-and-DL.svg)](https://starcharts.herokuapp.com/ec2ainun/books-ML-and-DL)
+      
